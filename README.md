@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://www.frontendmentor.io/solutions/responsive-multistep-form-using-react-typescript-J2CEYngJgZ)
+- [Live Site](https://fm-multistep-form.netlify.app/)
 
 ### Built with
 
