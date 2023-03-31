@@ -25,6 +25,8 @@ export const InputLabel = styled.label`
 export const Input = styled.input`
   display: block;
   
+  font-family: inherit;
+  
   width: 100%;
   border: 1px solid hsl(231, 23%, 87%);
   border-radius: 8px;
